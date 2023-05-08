@@ -1,4 +1,4 @@
-# Fi Group ToDo Front End API
+# Fi Group ToDo Back End API
 
 Este proyecto es una API RESTful que proporciona funcionalidades básicas para gestionar una lista de tareas (ToDo list) utilizando ASP.NET Core, para Fi Group cómo prueba técnica.
 
